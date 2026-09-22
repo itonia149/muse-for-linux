@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Muse
+Comment=Unofficial Meta Muse Web wrapper
+Exec=muse-for-linux
+Icon=muse-for-linux
+StartupWMClass=Muse
+Categories=Network;Chat;
+Terminal=false

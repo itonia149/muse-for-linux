@@ -1,0 +1,15 @@
+{
+  "name": "muse-for-linux",
+  "productName": "Muse",
+  "version": "0.1.0",
+  "description": "Unofficial Electron wrapper for Meta Muse Web (muse.ai)",
+  "license": "MIT",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "node src/url-policy.test.js"
+  },
+  "devDependencies": {
+    "electron": "^44.0.0"
+  }
+}
